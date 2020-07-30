@@ -1,9 +1,9 @@
-#RWTS PDFwriter
-&copy; 2016 Rodney I. Yager
+#PDFwriter
+&copy;
 
 An OSX print to pdf-file printer driver
 
-###[![](https://raw.githubusercontent.com/rodyager/RWTS-PDFwriter/master/sources/PDFwriter.iconset/icon_256x256.png "Click to download installer pkg") Click to download the installer pkg](https://github.com/rodyager/RWTS-PDFwriter/releases/download/v1.0.1/RWTS-PDFwriter.pkg)
+Click to download the installer pkg (https://github.com/rodyager/RWTS-PDFwriter/releases/download/v1.0.1/RWTS-PDFwriter.pkg)
 
 
 ##About RWTS PDFwriter
